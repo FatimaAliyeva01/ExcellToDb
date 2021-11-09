@@ -10,27 +10,27 @@
 <https://towardsdatascience.com/turn-your-excel-workbook-into-a-sqlite-database-bc6d4fd206aa>
 
 # Packages
-<!-- click
-click-8.0.3
-colorama
-django
-Django-2.0.2
-flask
-Flask
-greenlet
-itsdangerous
-jinja2
-Jinja2-3.0.2
-MarkupSafe
-pip
-pip-21.3.1
-numpy
-openpyxl
-pandas
-python-dateutil
-pytz
-six
-SQLAlchemy
-Werkzeug
-xlrd
-XlsxWriter -->
+* click
+* click-8.0.3
+* colorama
+* django
+* Django-2.0.2
+* flask
+* Flask
+* greenlet
+* itsdangerous
+* jinja2
+* Jinja2-3.0.2
+* MarkupSafe
+* pip
+* pip-21.3.1
+* numpy
+* openpyxl
+* pandas
+* python-dateutil
+* pytz
+* six
+* SQLAlchemy
+* Werkzeug
+* xlrd
+* XlsxWriter
